@@ -6,7 +6,5 @@
 - ⚡ Fun fact: My brain: 90% imaginary scenarios, 10% useful stuff. And it works just fine like that.
 
 # https://toshysna.github.io/Toshysna-Hub/
-<!---
-toshysna/toshysna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# https://www.n1tier.com/
+
