@@ -6,5 +6,4 @@
 - ⚡ Fun fact: My brain: 90% imaginary scenarios, 10% useful stuff. And it works just fine like that.
 
 # https://www.n1tier.com/
-# https://toshysna.github.io/Toshysna-Hub
 # https://toshysna.github.io/Space-snake
